@@ -1,2 +1,2 @@
 # alien_roblox_game
-this repository will explain the projects origin, goal and help new developers.
+this repository will explain the project's origin, goal and help new developers.
